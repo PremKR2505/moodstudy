@@ -33,7 +33,7 @@ Technologies & Tools Used:
 
 Steps to Install & Run the Project:
 1. Clone the repository
-git clone https://github.com/<your-username>/moodstudy.git
+```git clone https://github.com/me-morningstar/moodstudy```
 2. Move into folder
 cd moodstudy
 3. Create virtual environment
